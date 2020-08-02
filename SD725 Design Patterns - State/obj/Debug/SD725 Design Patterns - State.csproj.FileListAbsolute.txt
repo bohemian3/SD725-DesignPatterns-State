@@ -1,0 +1,7 @@
+C:\Users\splan\source\repos\SD725 Design Patterns - State\SD725 Design Patterns - State\bin\Debug\SD725 Design Patterns - State.exe.config
+C:\Users\splan\source\repos\SD725 Design Patterns - State\SD725 Design Patterns - State\bin\Debug\SD725 Design Patterns - State.exe
+C:\Users\splan\source\repos\SD725 Design Patterns - State\SD725 Design Patterns - State\bin\Debug\SD725 Design Patterns - State.pdb
+C:\Users\splan\source\repos\SD725 Design Patterns - State\SD725 Design Patterns - State\obj\Debug\SD725 Design Patterns - State.csprojAssemblyReference.cache
+C:\Users\splan\source\repos\SD725 Design Patterns - State\SD725 Design Patterns - State\obj\Debug\SD725 Design Patterns - State.csproj.CoreCompileInputs.cache
+C:\Users\splan\source\repos\SD725 Design Patterns - State\SD725 Design Patterns - State\obj\Debug\SD725 Design Patterns - State.exe
+C:\Users\splan\source\repos\SD725 Design Patterns - State\SD725 Design Patterns - State\obj\Debug\SD725 Design Patterns - State.pdb
